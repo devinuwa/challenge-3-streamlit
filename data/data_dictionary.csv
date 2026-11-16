@@ -1,0 +1,13 @@
+Field group,Meaning / entry guidance
+Opportunity_Data rows,Each row is a product-city-customer-segment opportunity. Rows are pre-generated for the six agreed comparison cities and four exploratory customer segments.
+Soybean_State_Output_2024_tonnes,"Prefilled state-level NAERLS figure. It is a supply-context variable, not city availability. Do not interpret as local stock or supply to a manufacturer."
+Local_Product_Availability_Evidence,"Record whether tofu, soy yoghurt, soy milk, soy-wara, or related substitutes are actually sold in the city. Note outlet, date and source."
+Consumer_Demand_Signal,Enter survey/interview or observed sales/menu/search signal. Record sample size and date. Do not enter unsupported estimates.
+Typical_Competing_Product / price / size,For tofu suya compare beef suya and other ready-to-eat snacks. For Kafi compare dairy yoghurt and soy-based drinks/yoghurts. Record comparable pack/portion size.
+Proposed_Product_Price_NGN,"Use the team's own unit cost and proposed selling price. Mark as internal estimate, not market observation."
+Affordability_Proxy_or_Source,Use a defensible local income/spending/student affordability proxy; cite source and reference year. Willingness-to-pay survey data may also inform this.
+Relevant_Retail_or_Foodservice_Count,Count relevant vendors/outlets within a clearly stated area and method. Do not use city population as a substitute for channel access.
+Supplier / distribution fields,"Record supplier quote, location, transport, cold storage/shelf-life requirements and operational barriers."
+Score fields,Scores 1–5 using Scoring_Framework. Enter only when evidence supports the score. Weighted score calculates only after all five scores are entered.
+Evidence_Confidence,"High/Medium/Low. Confidence reflects evidence quality and coverage, not how attractive the market appears."
+Survey_Responses,"One row per respondent. Do not collect names, phone numbers or unnecessary personal identifiers. Obtain consent and keep responses anonymous."

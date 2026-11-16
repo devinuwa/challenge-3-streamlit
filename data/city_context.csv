@@ -1,0 +1,7 @@
+City,State/FCT,Region,Soybean_Output_2024_tonnes,Source_ID,Interpretation / limitation
+Kano,Kano,North West,66915.95,SRC-01,"State-level production context only; not city supply, availability, price or product demand."
+Kaduna,Kaduna,North West,93741.86,SRC-01,"State-level production context only; not city supply, availability, price or product demand."
+Jos,Plateau,North Central,25172.74,SRC-01,"State-level production context only; not city supply, availability, price or product demand."
+Abuja,FCT,North Central,29065.91,SRC-01,"State-level production context only; not city supply, availability, price or product demand."
+Lagos,Lagos,South West,,,"State-level production context only; not city supply, availability, price or product demand."
+Ibadan,Oyo,South West,24114.0,SRC-01,"State-level production context only; not city supply, availability, price or product demand."
